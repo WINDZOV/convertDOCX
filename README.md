@@ -1,13 +1,13 @@
 # Convertidor DOCX Frontend
 
-Este proyecto permite leer y extraer el contenido de archivos DOCX directamente en el navegador, sin backend, usando JavaScript y librerías como JSZip y docxtemplater. El contenido extraído se muestra como texto plano o con estilos básicos, y puede ser exportado a PDF.
+Este proyecto permite leer y extraer el contenido de archivos DOCX y PPTX directamente en el navegador, sin backend, usando JavaScript y librerías como JSZip y docxtemplater. El contenido extraído se muestra como texto plano o con estilos básicos, y puede ser exportado a PDF.
 
 ---
 
 ## Características actuales
 
 - Subida y lectura de archivos DOCX en el navegador.
-- Extracción y visualización del texto contenido en el DOCX.
+- Extracción y visualización del texto contenido en el DOCX o PPTX.
 - Interfaz sencilla con Bootstrap para subir archivos.
 - Exportación del texto extraído a PDF.
 
@@ -82,6 +82,6 @@ Si tienes ideas o mejoras, ¡estaré encantada de recibir pull requests o sugere
 
 ## Autor
 
-Nina Kilosanidze  
+Nina K.  
 Desarrolladora web orientada a ciberseguridad y apasionada por la programación.
 
